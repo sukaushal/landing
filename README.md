@@ -1,13 +1,8 @@
-# Myself
-![]()
-
-A seasoned professional with vast experience in architecture, data engineering, data analytics domains with keen interest in Machine Learning and data 
-
+# DataScience
+Repository containing portfolio of data science projects completed by me, presented in the form of iPython Notebooks.
 Some of the interesting repositories that highlight my interests and exposure.
 
-# DataScience
-
-List of Projects 
+### Summary of projects:
 
 ## BatchPredictionIOT: 
 
@@ -59,3 +54,13 @@ The original Notebook is [here](https://www.kaggle.com/pyaligar/notebook0325f931
 And the comet model is [here](https://www.comet.ml/yaligarp/saturday-codealong-medical-insurance-costs-predict/e961de32e76047cf8e487f252c24ae85?experiment-tab=chart&showOutliers=true&smoothing=0&transformY=smoothing&xAxis=wall){:target="_blank"}
 
 ## [Primers](/primers/)
+
+# Other Repositories:
+## Visualitions:
+
+## Deployments:
+
+## About Me
+A passionate engineering professional with wide range of experience in architecture, data engineering/ingestion, data warehousing, Machine Learning, predictive modelling including on technologies.
+### [linkedin](https://www.linkedin.com/in/prakash-y-2327a6a/)
+### [Publications]()
