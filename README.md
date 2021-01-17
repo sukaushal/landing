@@ -50,10 +50,12 @@ However SVC model (with 'rbf' kernel) had the best resuts on test data:
 
 Given the retail billing data like InvoiceNo,StockCode,Description,Quantity,UnitPrice,CustomerID,Country, the problem is to estimate the retail price on the test data.
 
-## InsuranceCostPrelim:
+## [InsuranceCostPrelim:](/InsuranceCostPrelim/)
 
 Predict Insurance cost based on past Insurance Claim Data. Initial Exploratory Analysis and Modelling done to arrive at model selections based on experiments with pipelines and gridsearch; 
 Also using comet.ml for running experiments and hyperparameter tuning.
 
 The original Notebook is [here](https://www.kaggle.com/pyaligar/notebook0325f93125){:target="_blank"}
 And the comet model is [here](https://www.comet.ml/yaligarp/saturday-codealong-medical-insurance-costs-predict/e961de32e76047cf8e487f252c24ae85?experiment-tab=chart&showOutliers=true&smoothing=0&transformY=smoothing&xAxis=wall){:target="_blank"}
+
+## Primers(/Primers)
